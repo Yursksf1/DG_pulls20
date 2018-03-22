@@ -1,0 +1,6 @@
+
+django==2.0.3
+jupyter
+django-extensions==2.0.6
+
+#django-crispy-forms==1.7.2
